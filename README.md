@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **pritamnath1221@gmail.com**
+- 📫 but 1 way to reach me **pritamnath1221@gmail.com**
 
-- ⚡ Fun fact **I think a am so boring 😁**
+- ⚡ Fun fact **I think i am so boring 😁**
 
 <img aling="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <h3 align="left">Connect with me:</h3>
