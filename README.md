@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Framework etc.**
 
-- 👯 I’m looking to collaborate no ** one**
+- 👯 I’m looking to collaborate no **one**
 
 - 💬 Ask me about **react**
 
