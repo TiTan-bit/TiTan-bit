@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img aling="right" alt="coding" widht="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/প্রীতম নাথ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="প্রীতম নাথ" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/dfQmLLF2681oGod3/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="প্রীতম নাথ" height="30" width="40" /></a>
 <a href="https://instagram.com/t_i_t_a_n_0090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_i_t_a_n_0090" height="30" width="40" /></a>
 </p>
 
