@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)]
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning python code
-- 📫 How to reach me impossibla..
+- 📫 How to reach me it's impossibla..
 
 <!---
 TiTan-bit/TiTan-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
