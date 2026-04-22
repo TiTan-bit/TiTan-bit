@@ -30,31 +30,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titan-bit&show_icons=true&locale=en" alt="titan-bit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titan-bit&" alt="titan-bit" /></p>
-
-1
-
-2 body {
-
-3 display: flex;
-
-4
-
-5
-
-6
-
-justify-content: center;
-
-align-items: center;
-
-background-color: black;
-
-1.7K
-
-color: #FFF;
-
-7 background-repeat: no-repeat;
-
-8
-
-9}
